@@ -1,5 +1,4 @@
-
-![b06fd9f09dda0d2a40955d27a923f7da](https://github.com/user-attachments/assets/7083df2a-8b0c-4acd-b36e-fe61a7bf1c99)
+<img src="https://github.com/user-attachments/assets/b9aef378-b2f3-479f-bd19-2811a080dec0" width="100%" />
 
 <!--
 **jingun1255/jingun1255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
