@@ -5,19 +5,8 @@
 
 <div>
    <!--Body-->
-   ## :computer: Tech Stacks <br/>
-   ### 🌐 Languages
-   
-   ## 👀 About Me
-   #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
-   #### :fire: I aim to become a Cloud AI Engineer.<br/>
-   #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
-   <br/>
-   <br/>
-   
    ## 🧱 Tech Stack
-   ### Language
-   <!--Python-->
+   ### 🌐 Language
    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
    <img src="https://img.shields.io/badge/c++-E34F26?style=flat-square&logo=c++&logoColor=white">
    ### :wrench: Engines
